@@ -19,6 +19,11 @@ Google's public sample of a real GA4 BigQuery export, covering 1 Nov 2020 – 31
 | File | What it answers |
 |---|---|
 | `01_event_volume.sql` | Event mix on a single day |
+| `02_daily_users.sql` | Daily users and events |
+| `03_traffic_by_source.sql` | Traffic by source, medium and campaign |
+| `04_event_params.sql` | Reading event parameters |
+| `05_top_products.sql` | Top products by revenue |
+| `06_device_geo.sql` | Device and geography breakdown |
 
 ## About
 
